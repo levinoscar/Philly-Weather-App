@@ -1,16 +1,16 @@
+# Welcome to the Philly Weather App  <br />
+
 ![](PhillyWeather05-02-24.png)
 
-# Link to Project: : TBD <br />
+# Link to Project: TBD <br />
 
-## Running Instructions TBD <br />
+## Running Instructions <br />
 
-
+TBD
 
 ## Hosts  <br />
 
 TBD
-
-## Welcome to the Philly Weather App  <br />
 
 # Introduction  <br />
 
