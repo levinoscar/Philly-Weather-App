@@ -1,4 +1,4 @@
-# Welcome to the Philly Weather App  <br />
+# Welcome to the Philly Weather App
 
 ![](PhillyWeather05-02-24.png)
 
